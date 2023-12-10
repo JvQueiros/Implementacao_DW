@@ -21,4 +21,5 @@ O cenário desenvolvido neste projeto visa simular a implementação de um Data 
 
 A solução implementada utiliza das ferramentas abaixo relacionadas, disposta de forma a estruturar a seguinte arquitetura: 
 
-![Erro](https://github.com/JvQueiros/Implementacao_DW/issues/1#issue-2034571899)
+![ZoomOut](https://github.com/JvQueiros/Implementacao_DW/assets/95942380/d1adbc2d-b6cb-484b-8b64-7f590a592580)
+
