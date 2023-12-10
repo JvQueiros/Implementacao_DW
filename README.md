@@ -16,3 +16,11 @@ O cenário desenvolvido neste projeto visa simular a implementação de um Data 
 - **Financeiros**: Relatórios que mostram informações financeiras, como receita, despesas, margem de lucro, fluxo de caixa e outras métricas financeiras importantes, permitindo que a empresa avalie sua saúde financeira e tome decisões informadas.
   
 - **Qualidade**: Relatórios que fornecem informações sobre a qualidade dos produtos, incluindo os dados de inspeção e teste, o índice de defeito e outros indicadores de qualidade, permitindo que a empresa identifique áreas de melhoria na qualidade e tome medidas corretivas.
+
+## Solução proposta
+
+A solução implementada utiliza das ferramentas abaixo relacionadas, disposta de forma a estruturar a seguinte arquitetura: 
+
+<p align="center">
+  <img src="https://github.com/JvQueiros/Implementacao_DW/issues/1#issue-2034571899" alt="Descrição da imagem">
+</p>
