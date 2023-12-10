@@ -1,2 +1,3 @@
-# Implementa-o_DW
-Projeto de portfólio. Implementação de um Data Warehouse On-premise.
+# Data Warehouse - Implementação
+
+## Cenário e objetivos
