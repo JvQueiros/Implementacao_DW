@@ -62,4 +62,5 @@ O maior desafio de se trabalhar com a implementação de um Data Warehouse é co
 Como uma possível melhoria, podemos pensar em isolar a Staging Area em outro servidor, utilizar linguagem Python para fazer extração da fonte, automatizando com o Airflow, por exemplo.
 
 ## Code 📃
-Códigos e scripts utilizados: 
+Códigos e scripts utilizados: [scripts](./scripts_files)
+
