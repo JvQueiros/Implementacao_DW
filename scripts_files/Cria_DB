@@ -1,0 +1,11 @@
+# Servidor 1
+      Nome = Proj_fonte
+      POSTGRES_DB = PostgresDB
+
+# Servidor 2
+
+    Nome = Proj_Destino
+    POSTGRES_DB=postgresDB
+
+  Comando de criação:
+  docker run --name dbdestino -p 5434:5432 -e POSTGRES_USER=dbadmin -e POSTGRES_PASSWORD=dbadmin123 -e POSTGRES_DB=postgresDB -d postgres
