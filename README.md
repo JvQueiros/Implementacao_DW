@@ -23,7 +23,7 @@
 
 ![ZoomOut](https://github.com/JvQueiros/Implementacao_DW/assets/95942380/d1adbc2d-b6cb-484b-8b64-7f590a592580)
 
-  Depreende-se da imagem apresentada que, como fonte, utilizou-se um banco de dados PostgresSQL hospedado em um servidor dedicado da empresa; e um segundo servidor foi utilizado para hospedar o Docker, possibilitando o deploy de dois containers, o primeiro rodando o Airbyte – responsável pela extração dos dados da fonte – e o segundo rodando, também, uma instância do PostgresSQL.
+  Depreende-se da imagem apresentada que, como fonte, utilizou-se um banco de dados PostgreSQL hospedado em um servidor dedicado da empresa; e um segundo servidor foi utilizado para hospedar o Docker, possibilitando o deploy de dois containers, o primeiro rodando o Airbyte – responsável pela extração dos dados da fonte – e o segundo rodando, também, uma instância do PostgresSQL.
 
   Neste segundo banco de dados, foi criado dois schemas, sendo um a Staging Area e o outro o próprio Data Warehouse, veja-se:
 
