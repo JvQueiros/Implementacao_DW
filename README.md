@@ -36,7 +36,7 @@
 
   Com o Airbyte, os dados foram transferidos para a Staging Area em sua forma bruta, sem filtro ou transformação; o objetivo é gerar a menor sobrecarga possível no servidor de origem. Uma vez na Staging Area, foram limpos, transformados e carregados no Data Warehouse com linguagem SQL. Ou seja, o processo ETL foi feito em duas etapas assíncronas. 
 
-![Airbyte](https://github.com/JvQueiros/Implementacao_DW/assets/95942380/d063d01a-333c-48a7-aed8-2bada8eb799b)
+![Airbyte](https://github.com/user-attachments/assets/4cc294dc-876c-4121-9e0d-c4c6c574253f))
 
   A utilização de query’s SQL para tratamento e carga mostrou-se vantajosa na segunda etapa pois torna o processo mais veloz e eficiente, tendo que a Staging Area e o Data Warehouse estão no mesmo servidor e compartilham o mesmo banco de dados. Essa arquitetura da Staging Area ficar fora do banco de dados de origem e compartilhar o banco de dados de destino é chamada de “Staging Remoto” e sua principal vantagem é que acelera o processo de carga.
 
